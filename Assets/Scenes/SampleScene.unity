@@ -623,6 +623,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dino_Rigged
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c481535b628b2cb4e914e4167ad4d45c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 992969083571153926, guid: c481535b628b2cb4e914e4167ad4d45c,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
